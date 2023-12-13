@@ -3,34 +3,10 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+ I love technology because when it works it is a win for everyone - driving new efficiencies, providing new capabilities, enabling new possibilities. Technology and product innovations can deliver benefits that far outweigh their costs, delivering productivity and utility never before possible. Due to their scalability, great products have the potential to be completeley transformative in their impact on society.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+I work in the field of product management which means that I help technology companies make products that deliver value and drive impact for users. In other words I try to make products successful for users and the business. To do this right requires balancing multiple priorities across multiple disciplines over both the short and long-term to hopefully make something great. It also means aligning business stakeholders and leading empowered teams of technologists and designers to build the future. This isn't always an easy job but I truly love what I do. Great products make things better.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+My personal interests vary from cooking and hiking in nature to machine learning and blockchains and other technical things. I love my family, my dog and BBQ.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+Connect with me on [LinkedIn](https://linkedin.com/in/alokmohindra) or reach out over email: alok dot mohindra at gmail dot com
