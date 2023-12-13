@@ -4,7 +4,7 @@ pubDatetime: 2023-11-27T15:22:00Z
 title: Introducting Mastering ML for Product Managers
 postSlug: intro-mastering-ml-for-product-managers
 featured: true
-draft: false
+draft: true
 tags:
   - docs
 description:

@@ -1,18 +1,18 @@
 ---
 author: Alok Mohindra
 pubDatetime: 2024-01-01
-title: The art and science of product management
+title: Welcome to the art and science of product management
 postSlug: art-and-science-of-product-management
 featured: true
 draft: false
 tags:
   - welcome
   - product
-description: This blog covers the art and science of product management as practiced by organizations pursuing a product-led growth strategy
+description: This blog covers the art and science of product management as practiced by companies pursuing a product-led growth strategy
 ---
-# Welcome to the art and science of product management!
+# Welcome to the art and science of product management
 
-**Disclaimer** This** is my personal writing and all thoughts are my own. 
+**Disclaimer** This** is my personal writing and all thoughts are my own.
 
 This blog covers topics related to the art and science of product management. Product Management, simply put, is the practice of creating successful products. My goal is to share with you the current best practices for managing the creation of successful products while also covering the creative aspects, instincts and insights from my experience as well as other experts in the field.
 
