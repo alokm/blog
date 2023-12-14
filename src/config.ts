@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://alokm.github.io", // this is the target deployed domain
+  website: "https://alokm.github.io/blog", // this is the target deployed domain
   author: "Alok Mohindra",
   desc: "Exploring the art and science of product management with an emphasis on product led growth strategies",
   title: "Alok's Product Blog",
