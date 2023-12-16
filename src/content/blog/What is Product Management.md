@@ -10,6 +10,7 @@ tags:
   - product
 description: What is product management? A brief, opinionated, overview of the field
 ---
+
 Product management, in a nutshell, is the art and science of planning, developing,
 and launching products that successfully meet customer needs and generate business value. 
 

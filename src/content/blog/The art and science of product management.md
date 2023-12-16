@@ -11,8 +11,6 @@ tags:
 description: This blog covers the art and science of product management as practiced by companies pursuing a product-led growth strategy
 ---
 
-# Welcome to the art and science of product management
-
 This blog covers topics related to the art and science of product management. Product Management is the practice of creating successful products. My goal is to share with you the current best practices for managing the creation of successful products while also covering the creative aspects, instincts, and insights from my experience and other experts in the field.
 
 Product Management, often called Product for short, is focused on identifying customer needs and creating products that meet those needs while delivering business value. Because product success is often multi-dimensional, product management is a multidisciplinary field combining elements of marketing, design, engineering, and business strategy. 
