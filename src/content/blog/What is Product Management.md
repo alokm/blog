@@ -11,7 +11,7 @@ tags:
 description: What is product management? A brief, opinionated, overview of the field
 ---
 
-Product management, in a nutshell, is the art and science of planning, developing,
+Product management is the art and science of planning, developing,
 and launching products that successfully meet customer needs and generate business value. 
 
 Product Managers must build the product; paradoxically, only some managers manage people directly. Instead, PMs manage the entire product lifecycle, from determining what product to make to maximize the market opportunity for the business to ensuring that the product meets the market needs and solves an essential problem for users.
