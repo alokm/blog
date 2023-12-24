@@ -1,6 +1,6 @@
 ---
 author: Alok Mohindra
-pubDatetime: 2024-12-02
+pubDatetime: 2024-01-02
 title: What is Product Management?
 postSlug: what-is-product-management
 featured: true
@@ -10,6 +10,16 @@ tags:
   - product
 description: What is product management? A brief, opinionated, overview of the field
 ---
+### What problem do Product Managers attempt to solve?
+![Product Management Target Zone](@assets/images/pm_target_zone.png)
+Product Managers attempt to ensure that the right product is built, one that meets the needs of users, achieves business goals, and is technically feasible to build in a cost effective and timely manner.
+
+![Tree-swing-requirements-comic](@assets/images/tree-swing-comic.jpg)
+
+The primary goal of product management is to ensure that the resources allocated to developing the product are used in the most effective way to develop a product that address the priority issues affecting potential customers while delivering on business objectives.
+
+PMs are obsessed with ensuring the team is building something customers want so that, as long as the product is built correctly and in a timely manner, it is likely to be successful in the market.
+
 Product management is the art and science of planning, developing, and launching products that meet customer needs and generate business value. The role of a product manager is to determine what product to build in order to best address the needs of customers while also achieving business objectives.
 
 What Product Managers Do:
@@ -29,13 +39,6 @@ On release the role of the product manager shifts to measuring impact and examin
 
 PMs oversee the entire product lifecycle from concept to launch and iterate. While they don't often directly manage any individuals on the team, their leadership is instead one of influence and authority to do what is right for the product.
 
-### What problem does Product Management attempt to solve?
-
-![Tree-swing-requirements-comic](@assets/images/tree-swing-comic.jpg)
-
-The primary goal of product management is to ensure that the resources allocated to developing the product are used in the most effective way to develop a product that address the priority issues affecting potential customers while delivering on business objectives.
-
-PMs are obsessed with ensuring the team is building something customers want so that, as long as the product is built correctly and in a timely manner, it is likely to be successful in the market.
 ### Why does product management matter?
 
 Product Management, when done right, is a force multiplier and allows cross-functional teams to create massive leverage by effectively organizing across disciplines, levels, and roles to gain alignment around a compelling vision and high-impact roadmap. Without product managers, work still gets done, and products still get built; it's just that they are less likely to hit their mark or have the same impact without clear product leadership to guide the team toward a successful outcome.
@@ -53,6 +56,7 @@ Product management matters for several reasons.
 6. **Effective Communication channels Improve team collaboration:** Product management practices promote cross-functional collaboration across different teams within an organization, including product management, marketing, sales, and customer support. Effective communication helps align everyone around a standard set of goals and objectives and ensures all stakeholders work together effectively.
 
 ## Common Misconceptions about Product Management
+
 ### Product Managers lead by influence, not direct authority
 
 Product managers (PMs) are responsible for the overall success of the product but most product managers do not manage any individuals or resources directly. PMs are unique in most organizations in that the role is one that typically leads by influence, but not direct authority.
