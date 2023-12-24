@@ -1,6 +1,6 @@
 ---
 author: Alok Mohindra
-pubDatetime: 2024-01-02
+pubDatetime: 2024-12-02
 title: What is Product Management?
 postSlug: what-is-product-management
 featured: true
