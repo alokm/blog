@@ -10,15 +10,7 @@ tags:
   - product
 description: What is product management? A brief, opinionated, overview of the field
 ---
-<<<<<<< Updated upstream
-
-Product management is the art and science of planning, developing,
-and launching products that successfully meet customer needs and generate business value. 
-
-Product Managers must build the product; paradoxically, only some managers manage people directly. Instead, PMs manage the entire product lifecycle, from determining what product to make to maximize the market opportunity for the business to ensuring that the product meets the market needs and solves an essential problem for users.
-=======
 Product management is the art and science of planning, developing, and launching products that meet customer needs and generate business value. The role of a product manager is to determine what product to build in order to best address the needs of customers while also achieving business objectives.
->>>>>>> Stashed changes
 
 What Product Managers Do:
 * identify market opportunities, 
@@ -36,6 +28,14 @@ PMs then work cross-functionally with design/UX, engineering, and QA to develop 
 On release the role of the product manager shifts to measuring impact and examining post-launch metrics and feedback to determine next steps; declare victory, iterate, or roll-back.
 
 PMs oversee the entire product lifecycle from concept to launch and iterate. While they don't often directly manage any individuals on the team, their leadership is instead one of influence and authority to do what is right for the product.
+
+### What problem does Product Management attempt to solve?
+
+![Tree-swing-requirements-comic](@assets/images/tree-swing-comic.jpg)
+
+The primary goal of product management is to ensure that the resources allocated to developing the product are used in the most effective way to develop a product that address the priority issues affecting potential customers while delivering on business objectives.
+
+PMs are obsessed with ensuring the team is building something customers want so that, as long as the product is built correctly and in a timely manner, it is likely to be successful in the market.
 ### Why does product management matter?
 
 Product Management, when done right, is a force multiplier and allows cross-functional teams to create massive leverage by effectively organizing across disciplines, levels, and roles to gain alignment around a compelling vision and high-impact roadmap. Without product managers, work still gets done, and products still get built; it's just that they are less likely to hit their mark or have the same impact without clear product leadership to guide the team toward a successful outcome.
@@ -74,8 +74,4 @@ Whether or not there is a formal title of Product Manager, Head of Product, or f
 
 In this blog series, I introduce you to the concept of Product-Led Growth, and I will argue why I believe a Product-Led Growth strategy is the most likely strategy to achieve outsized business outcomes. We will examine PLG and compare it to other Go-to-Market strategies to help you understand why it is so special.
 
-<<<<<<< Updated upstream
-In later articles, I plan to cover topics in artificial intelligence and machine learning as these emerging technologies, coupled with a product-led growth strategy, could provide unique opportunities to solve problems for your users in never-cable ways.
-=======
 In later articles, I plan to cover topics in artificial intelligence and machine learning as these emerging technologies, coupled with a product-led growth strategy, could provide unique opportunities to solve problems for your users in remarkably innovative ways.
->>>>>>> Stashed changes
